@@ -77,7 +77,7 @@ IDEA
 
 ## Use Case
 
-![alt text](../railwayfinder_use_case.png)
+![alt text](railwayfinder_use_case.png)
 
 ## Technology Stack
 
