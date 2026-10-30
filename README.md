@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name: Di
+# Date: 30.10.2026
+## Register Number: 212224040082
+## Name: Divya Lakshmi M
 ## Problem Title
 
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
