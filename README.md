@@ -73,7 +73,7 @@ IDEA
    6.4 The app shows 3D directions and speaks the turns, and re-routes if the passenger goes off course.
    6.5 When staff change something in the admin portal, such as a lift going out of service, every app and kiosk updates instantly.
 
-   ![alt text](../railwayfinder_architecture.png)
+![alt text](railwayfinder_architecture.png)
 
 ## Use Case
 
